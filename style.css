@@ -1,0 +1,10 @@
+    <style>
+
+    /* Apply CSS styles to position the image to the right */
+    .right-image {
+        float: right;
+        margin: 10px;
+        /* Optional: Add some margin for spacing */
+    }
+
+    </style>
